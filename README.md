@@ -18,3 +18,13 @@ The **Pet Rock Simulator** is an interactive program where players make choices 
    ```bash
    git clone https://github.com/WTCSC/pet-rock-simulator-Eclipse0-Gum.git
    cd pet-rock-simulator-Eclipse0-Gum
+<<<<<<< HEAD
+=======
+
+![Status](https://img.shields.io/badge/status-working-brightgreen)
+![Python](https://img.shields.io/badge/made%20with-Python-blue)
+
+![Diagram of Pet Simulator][def]
+
+[def]: Pet_Diagram.png
+>>>>>>> 90bc917 (Commit)
